@@ -1,4 +1,4 @@
-var api = "https://clericiproject.com:8117";
+var api = "http://149.28.212.132:8117";
 
 var coinUnits = 1000000000000;
 
@@ -8,7 +8,7 @@ var irc = "irc.freenode.net/#monero-pools";
 
 var email = "support@cryppit.com";
 
-var cryptonatorWidget = ["CLC-BTC", "CLC-USD", "CLC-EUR", "CLC-GBP"];
+var cryptonatorWidget = ["XMR-BTC", "XMR-USD", "XMR-EUR", "XMR-GBP"];
 
 var easyminerDownload = "https://github.com/zone117x/cryptonote-easy-miner/releases/";
 
